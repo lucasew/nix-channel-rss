@@ -9,6 +9,7 @@ import (
 	"os"
 	"path"
 	"path/filepath"
+	"sort"
 	"strconv"
 	"strings"
 	"sync"
@@ -47,6 +48,20 @@ func init() {
     if err != nil {
         panic(err)
     }
+}
+
+type ByDate []*feeds.Item
+
+func (a ByDate) Len() int {
+    return len(a)
+}
+
+func (a ByDate) Swap(i, j int) {
+    a[i], a[j] = a[j], a[i]
+}
+
+func (a ByDate) Less(i, j int) bool {
+    return a[i].Created.Unix() < a[j].Created.Unix()
 }
 
 func main() {
@@ -191,5 +206,6 @@ func (r *RssGenerator) historyToRss() (feed *feeds.Feed, err error) {
     if dumpFeedDatastructures {
         spew.Dump(feed)
     }
+    sort.Sort(ByDate(feed.Items))
     return feed, nil
 }
