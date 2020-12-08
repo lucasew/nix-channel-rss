@@ -13,6 +13,7 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+	"text/template"
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
@@ -20,6 +21,71 @@ import (
 )
 
 const PERMS = 0755
+
+const indexPageTemplate = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nix channel feed index</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100vw;
+            height: 100vh;
+        }
+        main {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: inherit;
+            height: inherit;
+        }
+        .items, .item, .icons {
+            display: flex;
+            flex-direction: row;
+        }
+        .items {
+            width: 60%;
+        }
+        .item {
+            justify-content: space-around;
+            align-items: center;
+        }
+        .icons > a {
+            padding: 10px;
+        }
+
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Nix Channels</h1>
+        {{ range . }}
+        <section id="items">
+            <div class="item">
+                <p class="item-name">{{ . }}</p>
+                <div class="icons">
+                    <a href="{{ . }}/feed.rss">
+                        <p>RSS</p>
+                    </a>
+                    <a href="{{ . }}/feed.atom">
+                        <p>ATOM</p>
+                    </a>
+                    <a href="{{ . }}/feed.json">
+                        <p>JSON</p>
+                    </a>
+                </div>
+            </div>
+        </section>
+        {{ end }}
+    </main>
+</body>
+</html>
+`
 
 var (
     channels = []string{
@@ -79,6 +145,18 @@ func main() {
         }(channel)
     }
     wg.Wait()
+    tmpl, err := template.New("index").Parse(indexPageTemplate)
+    if err != nil {
+        panic(err)
+    }
+    f, err := os.Create(path.Join(outFolder, "index.html"))
+    if err != nil {
+        panic(err)
+    }
+    err = tmpl.Execute(f, channels)
+    if err != nil {
+        panic(err)
+    }
 }
 
 func httpCat(url string) (string, error) {
