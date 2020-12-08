@@ -63,6 +63,7 @@ const indexPageTemplate = `
             font-weight: bold;
             color: black;
             text-decoration: none;
+            padding: 0;
         }
 
     </style>
