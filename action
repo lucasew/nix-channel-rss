@@ -7,7 +7,7 @@ go build -o /tmp/generate ./generate.go
 git checkout -B "$ALTERNATE_BRANCH"
 
 if [ "$(git rev-parse --abbrev-ref HEAD)" = "$ALTERNATE_BRANCH" ]; then
-    rm generate.go go.* shell.nix
+    rm generate.go go.* shell.nix action
     /tmp/generate -d ./
     git add -A
     git commit -sm "$(date)"
