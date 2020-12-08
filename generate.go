@@ -65,7 +65,9 @@ const indexPageTemplate = `
             text-decoration: none;
             padding: 0;
         }
-
+        p {
+            margin: 5px;
+        }
     </style>
 </head>
 <body>
