@@ -2,7 +2,7 @@
 
 go build -o /tmp/generate ./generate.go
 
-git checkout -b data
+git checkout -B data
 
 rm generate.go go.* shell.nix
 /tmp/generate -d ./
