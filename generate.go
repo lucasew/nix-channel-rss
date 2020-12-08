@@ -59,11 +59,19 @@ const indexPageTemplate = `
             padding: 10px;
         }
 
+        a {
+            font-weight: bold;
+            color: black;
+            text-decoration: none;
+        }
+
     </style>
 </head>
 <body>
     <main>
-        <h1>Nix Channels</h1>
+        <a href="https://github.com/lucasew/nix-channel-rss">
+            <h1 class="title">Nix Channels</h1>
+        </a>
         {{ range . }}
         <section id="items">
             <div class="item">
