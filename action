@@ -1,8 +1,16 @@
 #! /usr/bin/env bash
 
+ALTERNATE_BRANCH=data
+
 go build -o /tmp/generate ./generate.go
 
-git checkout -B data
+git checkout -B "$ALTERNATE_BRANCH"
 
-rm generate.go go.* shell.nix
-/tmp/generate -d ./
+if [ "$(git rev-parse --abbrev-ref HEAD)" = "$ALTERNATE_BRANCH" ]; then
+    rm generate.go go.* shell.nix
+    /tmp/generate -d ./
+    exit 0
+else
+    echo BUG
+    exit 1
+fi
