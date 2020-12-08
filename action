@@ -11,8 +11,9 @@ if [ "$(git rev-parse --abbrev-ref HEAD)" = "$ALTERNATE_BRANCH" ]; then
     /tmp/generate -d ./
     git add -A
     git commit -sm "$(date)"
-    git push origin "$ALTERNATE_BRANCH"
+    git push origin "$ALTERNATE_BRANCH" -f
     git checkout master
+    git branch -D "$ALTERNATE_BRANCH"
     exit 0
 else
     echo BUG
