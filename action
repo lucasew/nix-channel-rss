@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+
+go build -o /tmp/generate ./generate.go
+
+git checkout -b data
+
+rm generate.go go.* shell.nix
+/tmp/generate -d ./
