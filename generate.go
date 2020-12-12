@@ -126,7 +126,6 @@ func init() {
         panic(err)
     }
 }
-
 type ByDate []*feeds.Item
 
 func (a ByDate) Len() int {
@@ -138,7 +137,7 @@ func (a ByDate) Swap(i, j int) {
 }
 
 func (a ByDate) Less(i, j int) bool {
-    return a[i].Created.Unix() < a[j].Created.Unix()
+    return a[i].Created.Unix() > a[j].Created.Unix()
 }
 
 func main() {
