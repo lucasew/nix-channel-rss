@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Releases for nixpkgs channel nixos-20.09</title>
+    <link>localhost:6969</link>
+    <description>Feed of all nixpkgs builds for channel nixos-20.09</description>
+    <managingEditor>node-933493@sky.net (Definitely a machine powered by that blue gopher language)</managingEditor>
+    <pubDate>Thu, 28 Jan 2021 15:16:08 +0000</pubDate>
+    <item>
+      <title>Build nixos-20.09 85abeab48b5feda4b163e5bb32f50aad1164e415</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/85abeab48b5feda4b163e5bb32f50aad1164e415</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>85abeab48b5feda4b163e5bb32f50aad1164e415</guid>
+      <pubDate>Wed, 27 Jan 2021 08:52:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 93c2261684ea8c65606d7167b5d52b8da7d7778a</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/93c2261684ea8c65606d7167b5d52b8da7d7778a</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>93c2261684ea8c65606d7167b5d52b8da7d7778a</guid>
+      <pubDate>Tue, 26 Jan 2021 18:38:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 e4adbfbab8aadf9d80a93d40fb612cb910073af9</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/e4adbfbab8aadf9d80a93d40fb612cb910073af9</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>e4adbfbab8aadf9d80a93d40fb612cb910073af9</guid>
+      <pubDate>Mon, 25 Jan 2021 19:25:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 a058d005b3cbb370bf171ebce01839dd6ff52222</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/a058d005b3cbb370bf171ebce01839dd6ff52222</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>a058d005b3cbb370bf171ebce01839dd6ff52222</guid>
+      <pubDate>Sat, 23 Jan 2021 22:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 fe08be60cb84148a3dba29cfdb090fa185cacdaa</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/fe08be60cb84148a3dba29cfdb090fa185cacdaa</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>fe08be60cb84148a3dba29cfdb090fa185cacdaa</guid>
+      <pubDate>Sat, 23 Jan 2021 14:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 ce4a93e13a73a53028f9e86a8a8c7f21fbc93196</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/ce4a93e13a73a53028f9e86a8a8c7f21fbc93196</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>ce4a93e13a73a53028f9e86a8a8c7f21fbc93196</guid>
+      <pubDate>Fri, 22 Jan 2021 11:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 da3378c4aaf2ed350ad14552558fa55bb68d96d3</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/da3378c4aaf2ed350ad14552558fa55bb68d96d3</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>da3378c4aaf2ed350ad14552558fa55bb68d96d3</guid>
+      <pubDate>Wed, 20 Jan 2021 21:43:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 88f00e7e12d2669583fffd3f33aae01101464386</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/88f00e7e12d2669583fffd3f33aae01101464386</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>88f00e7e12d2669583fffd3f33aae01101464386</guid>
+      <pubDate>Mon, 18 Jan 2021 09:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 f5f66148b28b3d9b9b8381532052ad93a35d5d67</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/f5f66148b28b3d9b9b8381532052ad93a35d5d67</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>f5f66148b28b3d9b9b8381532052ad93a35d5d67</guid>
+      <pubDate>Sun, 17 Jan 2021 07:56:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 646f528cce6db1f89f6e635a7589bf1be6169ffb</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/646f528cce6db1f89f6e635a7589bf1be6169ffb</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>646f528cce6db1f89f6e635a7589bf1be6169ffb</guid>
+      <pubDate>Sat, 16 Jan 2021 19:57:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 1eff582e7ea6dcb208127ad369e231eaaf6fa378</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/1eff582e7ea6dcb208127ad369e231eaaf6fa378</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>1eff582e7ea6dcb208127ad369e231eaaf6fa378</guid>
+      <pubDate>Sat, 16 Jan 2021 02:56:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 352481146d87aa2d277ea696657aa7db5378b90f</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/352481146d87aa2d277ea696657aa7db5378b90f</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>352481146d87aa2d277ea696657aa7db5378b90f</guid>
+      <pubDate>Wed, 13 Jan 2021 20:34:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 3d8fa5f72158b866804ab30f42f6937bf25e420f</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/3d8fa5f72158b866804ab30f42f6937bf25e420f</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>3d8fa5f72158b866804ab30f42f6937bf25e420f</guid>
+      <pubDate>Wed, 13 Jan 2021 16:00:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 808b5dd5cbb79c90f30574186ded950bc12d2b91</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/808b5dd5cbb79c90f30574186ded950bc12d2b91</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>808b5dd5cbb79c90f30574186ded950bc12d2b91</guid>
+      <pubDate>Wed, 13 Jan 2021 01:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 aa5b9cd16b91d8a24681c3888951d7c3dc612314</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/aa5b9cd16b91d8a24681c3888951d7c3dc612314</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>aa5b9cd16b91d8a24681c3888951d7c3dc612314</guid>
+      <pubDate>Tue, 12 Jan 2021 00:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 97a13fb97fcda79f9ab3ee73b5dca65eb891c11a</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/97a13fb97fcda79f9ab3ee73b5dca65eb891c11a</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>97a13fb97fcda79f9ab3ee73b5dca65eb891c11a</guid>
+      <pubDate>Sun, 10 Jan 2021 12:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 c30ad096b2cd5f64d479a70e656b315ea5e96ae9</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/c30ad096b2cd5f64d479a70e656b315ea5e96ae9</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>c30ad096b2cd5f64d479a70e656b315ea5e96ae9</guid>
+      <pubDate>Fri, 08 Jan 2021 07:56:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 41dddb1283733c4993cb6be9573d5cef937c1375</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/41dddb1283733c4993cb6be9573d5cef937c1375</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>41dddb1283733c4993cb6be9573d5cef937c1375</guid>
+      <pubDate>Tue, 05 Jan 2021 18:40:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 4a75ca4a4e7d14e7b0b0230b3ea57b5bd7c16218</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/4a75ca4a4e7d14e7b0b0230b3ea57b5bd7c16218</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>4a75ca4a4e7d14e7b0b0230b3ea57b5bd7c16218</guid>
+      <pubDate>Tue, 05 Jan 2021 17:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 c6b23ba64aea4b0e2163ff84990084a6bec455c5</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/c6b23ba64aea4b0e2163ff84990084a6bec455c5</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>c6b23ba64aea4b0e2163ff84990084a6bec455c5</guid>
+      <pubDate>Sat, 02 Jan 2021 12:41:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 e065200fc90175a8f6e50e76ef10a48786126e1c</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/e065200fc90175a8f6e50e76ef10a48786126e1c</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>e065200fc90175a8f6e50e76ef10a48786126e1c</guid>
+      <pubDate>Mon, 28 Dec 2020 19:32:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 b43faa27fac1f9a77454a69400ee9f54a9ac9447</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/b43faa27fac1f9a77454a69400ee9f54a9ac9447</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>b43faa27fac1f9a77454a69400ee9f54a9ac9447</guid>
+      <pubDate>Sun, 27 Dec 2020 22:01:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 0c81b9a4f170f734bd7e587a39e56470c59733e7</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/0c81b9a4f170f734bd7e587a39e56470c59733e7</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>0c81b9a4f170f734bd7e587a39e56470c59733e7</guid>
+      <pubDate>Sat, 26 Dec 2020 22:22:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 ae1b121d9a68518dbf46124397e34e465d3cdf6c</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/ae1b121d9a68518dbf46124397e34e465d3cdf6c</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>ae1b121d9a68518dbf46124397e34e465d3cdf6c</guid>
+      <pubDate>Fri, 25 Dec 2020 10:41:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 ca119749d86f484066fae7680af8a44ea1f11ca8</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/ca119749d86f484066fae7680af8a44ea1f11ca8</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>ca119749d86f484066fae7680af8a44ea1f11ca8</guid>
+      <pubDate>Wed, 23 Dec 2020 19:58:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 a3a3dda3bacf61e8a39258a0ed9c924eeca8e293</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/a3a3dda3bacf61e8a39258a0ed9c924eeca8e293</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>a3a3dda3bacf61e8a39258a0ed9c924eeca8e293</guid>
+      <pubDate>Mon, 21 Dec 2020 14:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 3d2d8f281a27d466fa54b469b5993f7dde198375</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/3d2d8f281a27d466fa54b469b5993f7dde198375</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>3d2d8f281a27d466fa54b469b5993f7dde198375</guid>
+      <pubDate>Sun, 20 Dec 2020 13:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 7d57790bc12edaa8cbb76c38b28b59535492864e</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/7d57790bc12edaa8cbb76c38b28b59535492864e</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>7d57790bc12edaa8cbb76c38b28b59535492864e</guid>
+      <pubDate>Sat, 19 Dec 2020 17:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 647cc06986c1ae4a2bb05298e0cf598723e42970</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/647cc06986c1ae4a2bb05298e0cf598723e42970</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>647cc06986c1ae4a2bb05298e0cf598723e42970</guid>
+      <pubDate>Tue, 15 Dec 2020 20:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 b94726217f7cdc02ddf277b65553762d520da196</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/b94726217f7cdc02ddf277b65553762d520da196</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>b94726217f7cdc02ddf277b65553762d520da196</guid>
+      <pubDate>Sun, 13 Dec 2020 10:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 c5c6009fb436efe5732e07cd0e5692f495321752</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/c5c6009fb436efe5732e07cd0e5692f495321752</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>c5c6009fb436efe5732e07cd0e5692f495321752</guid>
+      <pubDate>Sat, 12 Dec 2020 15:23:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 65c9cc79f1d179713c227bf447fb0dac384cdcda</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/65c9cc79f1d179713c227bf447fb0dac384cdcda</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>65c9cc79f1d179713c227bf447fb0dac384cdcda</guid>
+      <pubDate>Wed, 09 Dec 2020 19:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 78dc359abf8217da2499a6da0fcf624b139d7ac3</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/78dc359abf8217da2499a6da0fcf624b139d7ac3</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>78dc359abf8217da2499a6da0fcf624b139d7ac3</guid>
+      <pubDate>Tue, 08 Dec 2020 12:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 214e71a78a969d10a4a5c264ba3e6207481c6d54</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/214e71a78a969d10a4a5c264ba3e6207481c6d54</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>214e71a78a969d10a4a5c264ba3e6207481c6d54</guid>
+      <pubDate>Mon, 07 Dec 2020 02:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 0cfd08f4881bbfdaa57e68835b923d4290588d98</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/0cfd08f4881bbfdaa57e68835b923d4290588d98</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>0cfd08f4881bbfdaa57e68835b923d4290588d98</guid>
+      <pubDate>Sat, 05 Dec 2020 18:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 99f8282a65821f148df596ba389606e732eaf99d</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/99f8282a65821f148df596ba389606e732eaf99d</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>99f8282a65821f148df596ba389606e732eaf99d</guid>
+      <pubDate>Sat, 05 Dec 2020 16:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 e34208e10033315fddf6909d3ff68e2d3cf48a23</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/e34208e10033315fddf6909d3ff68e2d3cf48a23</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>e34208e10033315fddf6909d3ff68e2d3cf48a23</guid>
+      <pubDate>Fri, 04 Dec 2020 10:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 3c72bb875e67ad1bce805fe26a8a5d3a0e8078ed</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/3c72bb875e67ad1bce805fe26a8a5d3a0e8078ed</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>3c72bb875e67ad1bce805fe26a8a5d3a0e8078ed</guid>
+      <pubDate>Sun, 29 Nov 2020 16:29:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 ae47c79479a086e96e2977c61e538881913c0c08</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/ae47c79479a086e96e2977c61e538881913c0c08</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>ae47c79479a086e96e2977c61e538881913c0c08</guid>
+      <pubDate>Sun, 29 Nov 2020 08:45:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 2335e7354f8a9c34d4842aa107af14e268a27f07</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/2335e7354f8a9c34d4842aa107af14e268a27f07</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>2335e7354f8a9c34d4842aa107af14e268a27f07</guid>
+      <pubDate>Sat, 28 Nov 2020 21:58:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 ffb3aab257e8851b558cdc6079241a7eb0c7239e</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/ffb3aab257e8851b558cdc6079241a7eb0c7239e</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>ffb3aab257e8851b558cdc6079241a7eb0c7239e</guid>
+      <pubDate>Wed, 25 Nov 2020 22:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 f900be57309f0063dcae6f926f2e69871547efbc</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/f900be57309f0063dcae6f926f2e69871547efbc</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>f900be57309f0063dcae6f926f2e69871547efbc</guid>
+      <pubDate>Tue, 24 Nov 2020 22:32:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 19db3e5ea2777daa874563b5986288151f502e27</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/19db3e5ea2777daa874563b5986288151f502e27</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>19db3e5ea2777daa874563b5986288151f502e27</guid>
+      <pubDate>Sun, 22 Nov 2020 23:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 e111e9d4c0570486f990f8000d91694075b7cea1</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/e111e9d4c0570486f990f8000d91694075b7cea1</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>e111e9d4c0570486f990f8000d91694075b7cea1</guid>
+      <pubDate>Thu, 19 Nov 2020 19:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 7d71d3dc80c3f42600d3ff21ba0029ad0c217067</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/7d71d3dc80c3f42600d3ff21ba0029ad0c217067</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>7d71d3dc80c3f42600d3ff21ba0029ad0c217067</guid>
+      <pubDate>Tue, 17 Nov 2020 01:23:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 14cf906f33c39d38741062df2cca0b0575b210ff</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/14cf906f33c39d38741062df2cca0b0575b210ff</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>14cf906f33c39d38741062df2cca0b0575b210ff</guid>
+      <pubDate>Mon, 16 Nov 2020 23:26:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 f41c0fc7d8e49d94220f74495d4d702922df2a67</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/f41c0fc7d8e49d94220f74495d4d702922df2a67</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>f41c0fc7d8e49d94220f74495d4d702922df2a67</guid>
+      <pubDate>Mon, 16 Nov 2020 03:37:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 98e46cec92fb877abaee7ed8f78cee722fd58a7e</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/98e46cec92fb877abaee7ed8f78cee722fd58a7e</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>98e46cec92fb877abaee7ed8f78cee722fd58a7e</guid>
+      <pubDate>Sun, 15 Nov 2020 16:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 29e9c10750e2b35a0e47db55f36c685ef9219f4e</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/29e9c10750e2b35a0e47db55f36c685ef9219f4e</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>29e9c10750e2b35a0e47db55f36c685ef9219f4e</guid>
+      <pubDate>Sat, 14 Nov 2020 00:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 58f9c4c7d3a42c912362ca68577162e38ea8edfb</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/58f9c4c7d3a42c912362ca68577162e38ea8edfb</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>58f9c4c7d3a42c912362ca68577162e38ea8edfb</guid>
+      <pubDate>Thu, 12 Nov 2020 02:07:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 3090c65041104931adda7625d37fa874b2b5c124</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/3090c65041104931adda7625d37fa874b2b5c124</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>3090c65041104931adda7625d37fa874b2b5c124</guid>
+      <pubDate>Wed, 11 Nov 2020 19:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 896270d629efd47d14972e96f4fbb79fc9f45c80</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/896270d629efd47d14972e96f4fbb79fc9f45c80</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>896270d629efd47d14972e96f4fbb79fc9f45c80</guid>
+      <pubDate>Tue, 10 Nov 2020 21:42:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 96052f35023070072cd5ac0f17a97a2a2269d5b9</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/96052f35023070072cd5ac0f17a97a2a2269d5b9</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>96052f35023070072cd5ac0f17a97a2a2269d5b9</guid>
+      <pubDate>Mon, 09 Nov 2020 19:18:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 3a02dc9edb283beb9580c9329f242ad705a721c3</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/3a02dc9edb283beb9580c9329f242ad705a721c3</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>3a02dc9edb283beb9580c9329f242ad705a721c3</guid>
+      <pubDate>Mon, 09 Nov 2020 19:17:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 d12178b1c4a6ef1232c8c677573ba9db204e66ff</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/d12178b1c4a6ef1232c8c677573ba9db204e66ff</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>d12178b1c4a6ef1232c8c677573ba9db204e66ff</guid>
+      <pubDate>Sun, 08 Nov 2020 15:37:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 1ae46bffe4a7cceae2f9c7ac629c3774369b7772</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/1ae46bffe4a7cceae2f9c7ac629c3774369b7772</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>1ae46bffe4a7cceae2f9c7ac629c3774369b7772</guid>
+      <pubDate>Thu, 05 Nov 2020 21:27:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 d105075a1fd870b1d1617a6008cb38b443e65433</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/d105075a1fd870b1d1617a6008cb38b443e65433</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>d105075a1fd870b1d1617a6008cb38b443e65433</guid>
+      <pubDate>Tue, 03 Nov 2020 02:00:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 edb26126d98bc696f4f3e206583faa65d3d6e818</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/edb26126d98bc696f4f3e206583faa65d3d6e818</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>edb26126d98bc696f4f3e206583faa65d3d6e818</guid>
+      <pubDate>Wed, 28 Oct 2020 20:44:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 29cb4d04d0dd6d8fb5d0c896fd325bf06729092e</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/29cb4d04d0dd6d8fb5d0c896fd325bf06729092e</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>29cb4d04d0dd6d8fb5d0c896fd325bf06729092e</guid>
+      <pubDate>Tue, 27 Oct 2020 13:23:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 e79793fd8596d193e09336b2d0d2629e3b8d4888</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/e79793fd8596d193e09336b2d0d2629e3b8d4888</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>e79793fd8596d193e09336b2d0d2629e3b8d4888</guid>
+      <pubDate>Mon, 26 Oct 2020 12:58:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 13d0c311e3ae923a00f734b43fd1d35b47d8943a</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/13d0c311e3ae923a00f734b43fd1d35b47d8943a</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>13d0c311e3ae923a00f734b43fd1d35b47d8943a</guid>
+      <pubDate>Sun, 25 Oct 2020 15:17:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 80666202999a39585bd73adb2286c134d07499f1</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/80666202999a39585bd73adb2286c134d07499f1</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>80666202999a39585bd73adb2286c134d07499f1</guid>
+      <pubDate>Fri, 23 Oct 2020 17:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 95d26c9a9f2a102e25cf318a648de44537f42e09</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/95d26c9a9f2a102e25cf318a648de44537f42e09</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>95d26c9a9f2a102e25cf318a648de44537f42e09</guid>
+      <pubDate>Fri, 23 Oct 2020 15:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 9da0758c1cd4724cf09fd48fee11413f88c48c8d</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/9da0758c1cd4724cf09fd48fee11413f88c48c8d</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>9da0758c1cd4724cf09fd48fee11413f88c48c8d</guid>
+      <pubDate>Wed, 30 Sep 2020 00:02:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 2fbcd0b9df95306199407e36a038d2cc3aa24786</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/2fbcd0b9df95306199407e36a038d2cc3aa24786</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>2fbcd0b9df95306199407e36a038d2cc3aa24786</guid>
+      <pubDate>Mon, 28 Sep 2020 23:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 0cfe5377e8993052f9b0dd56d058f8008af45bd9</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/0cfe5377e8993052f9b0dd56d058f8008af45bd9</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>0cfe5377e8993052f9b0dd56d058f8008af45bd9</guid>
+      <pubDate>Sun, 27 Sep 2020 09:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 a9226f2b3a52fcbbc5587d2fa030729e714f40fe</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/a9226f2b3a52fcbbc5587d2fa030729e714f40fe</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>a9226f2b3a52fcbbc5587d2fa030729e714f40fe</guid>
+      <pubDate>Sat, 26 Sep 2020 07:51:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 b0a587f2efca944665f3cacf43d3e5b936cfd1e1</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/b0a587f2efca944665f3cacf43d3e5b936cfd1e1</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>b0a587f2efca944665f3cacf43d3e5b936cfd1e1</guid>
+      <pubDate>Wed, 23 Sep 2020 02:15:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 a780c60f9f7909586c18dc54dafd5e2490253857</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/a780c60f9f7909586c18dc54dafd5e2490253857</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>a780c60f9f7909586c18dc54dafd5e2490253857</guid>
+      <pubDate>Tue, 22 Sep 2020 22:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 d447429cc2407f7e76b09299439991d777914f4e</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/d447429cc2407f7e76b09299439991d777914f4e</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>d447429cc2407f7e76b09299439991d777914f4e</guid>
+      <pubDate>Sat, 19 Sep 2020 10:56:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 ba0bd29a1aef66a67b50f377413b05ae402f4fc3</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/ba0bd29a1aef66a67b50f377413b05ae402f4fc3</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>ba0bd29a1aef66a67b50f377413b05ae402f4fc3</guid>
+      <pubDate>Wed, 16 Sep 2020 08:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 3b8ddb2f1ee6f4c0794fb6dfbd273c3599492b76</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/3b8ddb2f1ee6f4c0794fb6dfbd273c3599492b76</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>3b8ddb2f1ee6f4c0794fb6dfbd273c3599492b76</guid>
+      <pubDate>Tue, 15 Sep 2020 13:52:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 e0508c81809b12013bce95562d556b1e672e3541</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/e0508c81809b12013bce95562d556b1e672e3541</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>e0508c81809b12013bce95562d556b1e672e3541</guid>
+      <pubDate>Sun, 13 Sep 2020 01:35:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 a40c69ed4768fe8bfadebc083cd60a01a4e59263</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/a40c69ed4768fe8bfadebc083cd60a01a4e59263</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>a40c69ed4768fe8bfadebc083cd60a01a4e59263</guid>
+      <pubDate>Sat, 12 Sep 2020 21:45:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 18f9a651f5c697b0aff5e86072111a5678d06dcb</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/18f9a651f5c697b0aff5e86072111a5678d06dcb</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>18f9a651f5c697b0aff5e86072111a5678d06dcb</guid>
+      <pubDate>Fri, 11 Sep 2020 12:29:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 3b50998b4fa9cfb69eb99e8df948ecd97a58e3a7</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/3b50998b4fa9cfb69eb99e8df948ecd97a58e3a7</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>3b50998b4fa9cfb69eb99e8df948ecd97a58e3a7</guid>
+      <pubDate>Wed, 09 Sep 2020 20:59:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 c411fe8ae0888994361279cf71a1bf820c4b22f4</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/c411fe8ae0888994361279cf71a1bf820c4b22f4</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>c411fe8ae0888994361279cf71a1bf820c4b22f4</guid>
+      <pubDate>Tue, 08 Sep 2020 20:39:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build nixos-20.09 d351e49b641f3bb12a4e447b7d1ba9e953db5e1a</title>
+      <link>https://github.com/NixOS/nixpkgs/commit/d351e49b641f3bb12a4e447b7d1ba9e953db5e1a</link>
+      <description></description>
+      <content:encoded><![CDATA[TODO: Fazer uma lista de coisa melhorzinha]]></content:encoded>
+      <author>Definitely a machine powered by that blue gopher language</author>
+      <guid>d351e49b641f3bb12a4e447b7d1ba9e953db5e1a</guid>
+      <pubDate>Mon, 07 Sep 2020 10:26:10 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

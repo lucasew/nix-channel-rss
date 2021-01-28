@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Releases for nixpkgs channel nixos-20.09</title>
+  <id>localhost:6969</id>
+  <updated>2021-01-28T15:16:08Z</updated>
+  <subtitle>Feed of all nixpkgs builds for channel nixos-20.09</subtitle>
+  <link href="localhost:6969"></link>
+  <author>
+    <name>Definitely a machine powered by that blue gopher language</name>
+    <email>node-933493@sky.net</email>
+  </author>
+  <entry>
+    <title>Build nixos-20.09 85abeab48b5feda4b163e5bb32f50aad1164e415</title>
+    <updated>2021-01-27T08:52:47Z</updated>
+    <id>85abeab48b5feda4b163e5bb32f50aad1164e415</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/85abeab48b5feda4b163e5bb32f50aad1164e415" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 93c2261684ea8c65606d7167b5d52b8da7d7778a</title>
+    <updated>2021-01-26T18:38:37Z</updated>
+    <id>93c2261684ea8c65606d7167b5d52b8da7d7778a</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/93c2261684ea8c65606d7167b5d52b8da7d7778a" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 e4adbfbab8aadf9d80a93d40fb612cb910073af9</title>
+    <updated>2021-01-25T19:25:09Z</updated>
+    <id>e4adbfbab8aadf9d80a93d40fb612cb910073af9</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/e4adbfbab8aadf9d80a93d40fb612cb910073af9" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 a058d005b3cbb370bf171ebce01839dd6ff52222</title>
+    <updated>2021-01-23T22:41:51Z</updated>
+    <id>a058d005b3cbb370bf171ebce01839dd6ff52222</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/a058d005b3cbb370bf171ebce01839dd6ff52222" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 fe08be60cb84148a3dba29cfdb090fa185cacdaa</title>
+    <updated>2021-01-23T14:57:52Z</updated>
+    <id>fe08be60cb84148a3dba29cfdb090fa185cacdaa</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/fe08be60cb84148a3dba29cfdb090fa185cacdaa" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 ce4a93e13a73a53028f9e86a8a8c7f21fbc93196</title>
+    <updated>2021-01-22T11:31:24Z</updated>
+    <id>ce4a93e13a73a53028f9e86a8a8c7f21fbc93196</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/ce4a93e13a73a53028f9e86a8a8c7f21fbc93196" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 da3378c4aaf2ed350ad14552558fa55bb68d96d3</title>
+    <updated>2021-01-20T21:43:53Z</updated>
+    <id>da3378c4aaf2ed350ad14552558fa55bb68d96d3</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/da3378c4aaf2ed350ad14552558fa55bb68d96d3" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 88f00e7e12d2669583fffd3f33aae01101464386</title>
+    <updated>2021-01-18T09:16:22Z</updated>
+    <id>88f00e7e12d2669583fffd3f33aae01101464386</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/88f00e7e12d2669583fffd3f33aae01101464386" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 f5f66148b28b3d9b9b8381532052ad93a35d5d67</title>
+    <updated>2021-01-17T07:56:30Z</updated>
+    <id>f5f66148b28b3d9b9b8381532052ad93a35d5d67</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/f5f66148b28b3d9b9b8381532052ad93a35d5d67" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 646f528cce6db1f89f6e635a7589bf1be6169ffb</title>
+    <updated>2021-01-16T19:57:40Z</updated>
+    <id>646f528cce6db1f89f6e635a7589bf1be6169ffb</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/646f528cce6db1f89f6e635a7589bf1be6169ffb" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 1eff582e7ea6dcb208127ad369e231eaaf6fa378</title>
+    <updated>2021-01-16T02:56:23Z</updated>
+    <id>1eff582e7ea6dcb208127ad369e231eaaf6fa378</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/1eff582e7ea6dcb208127ad369e231eaaf6fa378" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 352481146d87aa2d277ea696657aa7db5378b90f</title>
+    <updated>2021-01-13T20:34:46Z</updated>
+    <id>352481146d87aa2d277ea696657aa7db5378b90f</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/352481146d87aa2d277ea696657aa7db5378b90f" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 3d8fa5f72158b866804ab30f42f6937bf25e420f</title>
+    <updated>2021-01-13T16:00:15Z</updated>
+    <id>3d8fa5f72158b866804ab30f42f6937bf25e420f</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/3d8fa5f72158b866804ab30f42f6937bf25e420f" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 808b5dd5cbb79c90f30574186ded950bc12d2b91</title>
+    <updated>2021-01-13T01:20:20Z</updated>
+    <id>808b5dd5cbb79c90f30574186ded950bc12d2b91</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/808b5dd5cbb79c90f30574186ded950bc12d2b91" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 aa5b9cd16b91d8a24681c3888951d7c3dc612314</title>
+    <updated>2021-01-12T00:23:32Z</updated>
+    <id>aa5b9cd16b91d8a24681c3888951d7c3dc612314</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/aa5b9cd16b91d8a24681c3888951d7c3dc612314" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 97a13fb97fcda79f9ab3ee73b5dca65eb891c11a</title>
+    <updated>2021-01-10T12:15:11Z</updated>
+    <id>97a13fb97fcda79f9ab3ee73b5dca65eb891c11a</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/97a13fb97fcda79f9ab3ee73b5dca65eb891c11a" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 c30ad096b2cd5f64d479a70e656b315ea5e96ae9</title>
+    <updated>2021-01-08T07:56:54Z</updated>
+    <id>c30ad096b2cd5f64d479a70e656b315ea5e96ae9</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/c30ad096b2cd5f64d479a70e656b315ea5e96ae9" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 41dddb1283733c4993cb6be9573d5cef937c1375</title>
+    <updated>2021-01-05T18:40:34Z</updated>
+    <id>41dddb1283733c4993cb6be9573d5cef937c1375</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/41dddb1283733c4993cb6be9573d5cef937c1375" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 4a75ca4a4e7d14e7b0b0230b3ea57b5bd7c16218</title>
+    <updated>2021-01-05T17:31:06Z</updated>
+    <id>4a75ca4a4e7d14e7b0b0230b3ea57b5bd7c16218</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/4a75ca4a4e7d14e7b0b0230b3ea57b5bd7c16218" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 c6b23ba64aea4b0e2163ff84990084a6bec455c5</title>
+    <updated>2021-01-02T12:41:03Z</updated>
+    <id>c6b23ba64aea4b0e2163ff84990084a6bec455c5</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/c6b23ba64aea4b0e2163ff84990084a6bec455c5" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 e065200fc90175a8f6e50e76ef10a48786126e1c</title>
+    <updated>2020-12-28T19:32:37Z</updated>
+    <id>e065200fc90175a8f6e50e76ef10a48786126e1c</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/e065200fc90175a8f6e50e76ef10a48786126e1c" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 b43faa27fac1f9a77454a69400ee9f54a9ac9447</title>
+    <updated>2020-12-27T22:01:48Z</updated>
+    <id>b43faa27fac1f9a77454a69400ee9f54a9ac9447</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/b43faa27fac1f9a77454a69400ee9f54a9ac9447" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 0c81b9a4f170f734bd7e587a39e56470c59733e7</title>
+    <updated>2020-12-26T22:22:13Z</updated>
+    <id>0c81b9a4f170f734bd7e587a39e56470c59733e7</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/0c81b9a4f170f734bd7e587a39e56470c59733e7" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 ae1b121d9a68518dbf46124397e34e465d3cdf6c</title>
+    <updated>2020-12-25T10:41:16Z</updated>
+    <id>ae1b121d9a68518dbf46124397e34e465d3cdf6c</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/ae1b121d9a68518dbf46124397e34e465d3cdf6c" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 ca119749d86f484066fae7680af8a44ea1f11ca8</title>
+    <updated>2020-12-23T19:58:12Z</updated>
+    <id>ca119749d86f484066fae7680af8a44ea1f11ca8</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/ca119749d86f484066fae7680af8a44ea1f11ca8" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 a3a3dda3bacf61e8a39258a0ed9c924eeca8e293</title>
+    <updated>2020-12-21T14:27:46Z</updated>
+    <id>a3a3dda3bacf61e8a39258a0ed9c924eeca8e293</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/a3a3dda3bacf61e8a39258a0ed9c924eeca8e293" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 3d2d8f281a27d466fa54b469b5993f7dde198375</title>
+    <updated>2020-12-20T13:17:36Z</updated>
+    <id>3d2d8f281a27d466fa54b469b5993f7dde198375</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/3d2d8f281a27d466fa54b469b5993f7dde198375" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 7d57790bc12edaa8cbb76c38b28b59535492864e</title>
+    <updated>2020-12-19T17:55:30Z</updated>
+    <id>7d57790bc12edaa8cbb76c38b28b59535492864e</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/7d57790bc12edaa8cbb76c38b28b59535492864e" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 647cc06986c1ae4a2bb05298e0cf598723e42970</title>
+    <updated>2020-12-15T20:08:24Z</updated>
+    <id>647cc06986c1ae4a2bb05298e0cf598723e42970</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/647cc06986c1ae4a2bb05298e0cf598723e42970" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 b94726217f7cdc02ddf277b65553762d520da196</title>
+    <updated>2020-12-13T10:43:52Z</updated>
+    <id>b94726217f7cdc02ddf277b65553762d520da196</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/b94726217f7cdc02ddf277b65553762d520da196" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 c5c6009fb436efe5732e07cd0e5692f495321752</title>
+    <updated>2020-12-12T15:23:04Z</updated>
+    <id>c5c6009fb436efe5732e07cd0e5692f495321752</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/c5c6009fb436efe5732e07cd0e5692f495321752" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 65c9cc79f1d179713c227bf447fb0dac384cdcda</title>
+    <updated>2020-12-09T19:51:49Z</updated>
+    <id>65c9cc79f1d179713c227bf447fb0dac384cdcda</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/65c9cc79f1d179713c227bf447fb0dac384cdcda" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 78dc359abf8217da2499a6da0fcf624b139d7ac3</title>
+    <updated>2020-12-08T12:59:19Z</updated>
+    <id>78dc359abf8217da2499a6da0fcf624b139d7ac3</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/78dc359abf8217da2499a6da0fcf624b139d7ac3" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 214e71a78a969d10a4a5c264ba3e6207481c6d54</title>
+    <updated>2020-12-07T02:50:00Z</updated>
+    <id>214e71a78a969d10a4a5c264ba3e6207481c6d54</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/214e71a78a969d10a4a5c264ba3e6207481c6d54" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 0cfd08f4881bbfdaa57e68835b923d4290588d98</title>
+    <updated>2020-12-05T18:26:30Z</updated>
+    <id>0cfd08f4881bbfdaa57e68835b923d4290588d98</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/0cfd08f4881bbfdaa57e68835b923d4290588d98" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 99f8282a65821f148df596ba389606e732eaf99d</title>
+    <updated>2020-12-05T16:04:51Z</updated>
+    <id>99f8282a65821f148df596ba389606e732eaf99d</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/99f8282a65821f148df596ba389606e732eaf99d" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 e34208e10033315fddf6909d3ff68e2d3cf48a23</title>
+    <updated>2020-12-04T10:26:40Z</updated>
+    <id>e34208e10033315fddf6909d3ff68e2d3cf48a23</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/e34208e10033315fddf6909d3ff68e2d3cf48a23" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 3c72bb875e67ad1bce805fe26a8a5d3a0e8078ed</title>
+    <updated>2020-11-29T16:29:26Z</updated>
+    <id>3c72bb875e67ad1bce805fe26a8a5d3a0e8078ed</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/3c72bb875e67ad1bce805fe26a8a5d3a0e8078ed" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 ae47c79479a086e96e2977c61e538881913c0c08</title>
+    <updated>2020-11-29T08:45:31Z</updated>
+    <id>ae47c79479a086e96e2977c61e538881913c0c08</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/ae47c79479a086e96e2977c61e538881913c0c08" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 2335e7354f8a9c34d4842aa107af14e268a27f07</title>
+    <updated>2020-11-28T21:58:13Z</updated>
+    <id>2335e7354f8a9c34d4842aa107af14e268a27f07</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/2335e7354f8a9c34d4842aa107af14e268a27f07" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 ffb3aab257e8851b558cdc6079241a7eb0c7239e</title>
+    <updated>2020-11-25T22:49:17Z</updated>
+    <id>ffb3aab257e8851b558cdc6079241a7eb0c7239e</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/ffb3aab257e8851b558cdc6079241a7eb0c7239e" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 f900be57309f0063dcae6f926f2e69871547efbc</title>
+    <updated>2020-11-24T22:32:03Z</updated>
+    <id>f900be57309f0063dcae6f926f2e69871547efbc</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/f900be57309f0063dcae6f926f2e69871547efbc" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 19db3e5ea2777daa874563b5986288151f502e27</title>
+    <updated>2020-11-22T23:07:45Z</updated>
+    <id>19db3e5ea2777daa874563b5986288151f502e27</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/19db3e5ea2777daa874563b5986288151f502e27" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 e111e9d4c0570486f990f8000d91694075b7cea1</title>
+    <updated>2020-11-19T19:30:53Z</updated>
+    <id>e111e9d4c0570486f990f8000d91694075b7cea1</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/e111e9d4c0570486f990f8000d91694075b7cea1" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 7d71d3dc80c3f42600d3ff21ba0029ad0c217067</title>
+    <updated>2020-11-17T01:23:55Z</updated>
+    <id>7d71d3dc80c3f42600d3ff21ba0029ad0c217067</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/7d71d3dc80c3f42600d3ff21ba0029ad0c217067" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 14cf906f33c39d38741062df2cca0b0575b210ff</title>
+    <updated>2020-11-16T23:26:13Z</updated>
+    <id>14cf906f33c39d38741062df2cca0b0575b210ff</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/14cf906f33c39d38741062df2cca0b0575b210ff" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 f41c0fc7d8e49d94220f74495d4d702922df2a67</title>
+    <updated>2020-11-16T03:37:58Z</updated>
+    <id>f41c0fc7d8e49d94220f74495d4d702922df2a67</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/f41c0fc7d8e49d94220f74495d4d702922df2a67" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 98e46cec92fb877abaee7ed8f78cee722fd58a7e</title>
+    <updated>2020-11-15T16:06:08Z</updated>
+    <id>98e46cec92fb877abaee7ed8f78cee722fd58a7e</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/98e46cec92fb877abaee7ed8f78cee722fd58a7e" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 29e9c10750e2b35a0e47db55f36c685ef9219f4e</title>
+    <updated>2020-11-14T00:00:04Z</updated>
+    <id>29e9c10750e2b35a0e47db55f36c685ef9219f4e</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/29e9c10750e2b35a0e47db55f36c685ef9219f4e" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 58f9c4c7d3a42c912362ca68577162e38ea8edfb</title>
+    <updated>2020-11-12T02:07:09Z</updated>
+    <id>58f9c4c7d3a42c912362ca68577162e38ea8edfb</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/58f9c4c7d3a42c912362ca68577162e38ea8edfb" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 3090c65041104931adda7625d37fa874b2b5c124</title>
+    <updated>2020-11-11T19:27:46Z</updated>
+    <id>3090c65041104931adda7625d37fa874b2b5c124</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/3090c65041104931adda7625d37fa874b2b5c124" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 896270d629efd47d14972e96f4fbb79fc9f45c80</title>
+    <updated>2020-11-10T21:42:32Z</updated>
+    <id>896270d629efd47d14972e96f4fbb79fc9f45c80</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/896270d629efd47d14972e96f4fbb79fc9f45c80" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 96052f35023070072cd5ac0f17a97a2a2269d5b9</title>
+    <updated>2020-11-09T19:18:23Z</updated>
+    <id>96052f35023070072cd5ac0f17a97a2a2269d5b9</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/96052f35023070072cd5ac0f17a97a2a2269d5b9" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 3a02dc9edb283beb9580c9329f242ad705a721c3</title>
+    <updated>2020-11-09T19:17:41Z</updated>
+    <id>3a02dc9edb283beb9580c9329f242ad705a721c3</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/3a02dc9edb283beb9580c9329f242ad705a721c3" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 d12178b1c4a6ef1232c8c677573ba9db204e66ff</title>
+    <updated>2020-11-08T15:37:40Z</updated>
+    <id>d12178b1c4a6ef1232c8c677573ba9db204e66ff</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/d12178b1c4a6ef1232c8c677573ba9db204e66ff" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 1ae46bffe4a7cceae2f9c7ac629c3774369b7772</title>
+    <updated>2020-11-05T21:27:48Z</updated>
+    <id>1ae46bffe4a7cceae2f9c7ac629c3774369b7772</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/1ae46bffe4a7cceae2f9c7ac629c3774369b7772" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 d105075a1fd870b1d1617a6008cb38b443e65433</title>
+    <updated>2020-11-03T02:00:13Z</updated>
+    <id>d105075a1fd870b1d1617a6008cb38b443e65433</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/d105075a1fd870b1d1617a6008cb38b443e65433" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 edb26126d98bc696f4f3e206583faa65d3d6e818</title>
+    <updated>2020-10-28T20:44:46Z</updated>
+    <id>edb26126d98bc696f4f3e206583faa65d3d6e818</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/edb26126d98bc696f4f3e206583faa65d3d6e818" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 29cb4d04d0dd6d8fb5d0c896fd325bf06729092e</title>
+    <updated>2020-10-27T13:23:13Z</updated>
+    <id>29cb4d04d0dd6d8fb5d0c896fd325bf06729092e</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/29cb4d04d0dd6d8fb5d0c896fd325bf06729092e" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 e79793fd8596d193e09336b2d0d2629e3b8d4888</title>
+    <updated>2020-10-26T12:58:41Z</updated>
+    <id>e79793fd8596d193e09336b2d0d2629e3b8d4888</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/e79793fd8596d193e09336b2d0d2629e3b8d4888" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 13d0c311e3ae923a00f734b43fd1d35b47d8943a</title>
+    <updated>2020-10-25T15:17:36Z</updated>
+    <id>13d0c311e3ae923a00f734b43fd1d35b47d8943a</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/13d0c311e3ae923a00f734b43fd1d35b47d8943a" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 80666202999a39585bd73adb2286c134d07499f1</title>
+    <updated>2020-10-23T17:47:43Z</updated>
+    <id>80666202999a39585bd73adb2286c134d07499f1</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/80666202999a39585bd73adb2286c134d07499f1" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 95d26c9a9f2a102e25cf318a648de44537f42e09</title>
+    <updated>2020-10-23T15:12:23Z</updated>
+    <id>95d26c9a9f2a102e25cf318a648de44537f42e09</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/95d26c9a9f2a102e25cf318a648de44537f42e09" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 9da0758c1cd4724cf09fd48fee11413f88c48c8d</title>
+    <updated>2020-09-30T00:02:13Z</updated>
+    <id>9da0758c1cd4724cf09fd48fee11413f88c48c8d</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/9da0758c1cd4724cf09fd48fee11413f88c48c8d" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 2fbcd0b9df95306199407e36a038d2cc3aa24786</title>
+    <updated>2020-09-28T23:15:36Z</updated>
+    <id>2fbcd0b9df95306199407e36a038d2cc3aa24786</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/2fbcd0b9df95306199407e36a038d2cc3aa24786" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 0cfe5377e8993052f9b0dd56d058f8008af45bd9</title>
+    <updated>2020-09-27T09:48:00Z</updated>
+    <id>0cfe5377e8993052f9b0dd56d058f8008af45bd9</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/0cfe5377e8993052f9b0dd56d058f8008af45bd9" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 a9226f2b3a52fcbbc5587d2fa030729e714f40fe</title>
+    <updated>2020-09-26T07:51:04Z</updated>
+    <id>a9226f2b3a52fcbbc5587d2fa030729e714f40fe</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/a9226f2b3a52fcbbc5587d2fa030729e714f40fe" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 b0a587f2efca944665f3cacf43d3e5b936cfd1e1</title>
+    <updated>2020-09-23T02:15:22Z</updated>
+    <id>b0a587f2efca944665f3cacf43d3e5b936cfd1e1</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/b0a587f2efca944665f3cacf43d3e5b936cfd1e1" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 a780c60f9f7909586c18dc54dafd5e2490253857</title>
+    <updated>2020-09-22T22:33:21Z</updated>
+    <id>a780c60f9f7909586c18dc54dafd5e2490253857</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/a780c60f9f7909586c18dc54dafd5e2490253857" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 d447429cc2407f7e76b09299439991d777914f4e</title>
+    <updated>2020-09-19T10:56:52Z</updated>
+    <id>d447429cc2407f7e76b09299439991d777914f4e</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/d447429cc2407f7e76b09299439991d777914f4e" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 ba0bd29a1aef66a67b50f377413b05ae402f4fc3</title>
+    <updated>2020-09-16T08:15:46Z</updated>
+    <id>ba0bd29a1aef66a67b50f377413b05ae402f4fc3</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/ba0bd29a1aef66a67b50f377413b05ae402f4fc3" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 3b8ddb2f1ee6f4c0794fb6dfbd273c3599492b76</title>
+    <updated>2020-09-15T13:52:48Z</updated>
+    <id>3b8ddb2f1ee6f4c0794fb6dfbd273c3599492b76</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/3b8ddb2f1ee6f4c0794fb6dfbd273c3599492b76" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 e0508c81809b12013bce95562d556b1e672e3541</title>
+    <updated>2020-09-13T01:35:25Z</updated>
+    <id>e0508c81809b12013bce95562d556b1e672e3541</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/e0508c81809b12013bce95562d556b1e672e3541" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 a40c69ed4768fe8bfadebc083cd60a01a4e59263</title>
+    <updated>2020-09-12T21:45:22Z</updated>
+    <id>a40c69ed4768fe8bfadebc083cd60a01a4e59263</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/a40c69ed4768fe8bfadebc083cd60a01a4e59263" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 18f9a651f5c697b0aff5e86072111a5678d06dcb</title>
+    <updated>2020-09-11T12:29:34Z</updated>
+    <id>18f9a651f5c697b0aff5e86072111a5678d06dcb</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/18f9a651f5c697b0aff5e86072111a5678d06dcb" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 3b50998b4fa9cfb69eb99e8df948ecd97a58e3a7</title>
+    <updated>2020-09-09T20:59:13Z</updated>
+    <id>3b50998b4fa9cfb69eb99e8df948ecd97a58e3a7</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/3b50998b4fa9cfb69eb99e8df948ecd97a58e3a7" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 c411fe8ae0888994361279cf71a1bf820c4b22f4</title>
+    <updated>2020-09-08T20:39:42Z</updated>
+    <id>c411fe8ae0888994361279cf71a1bf820c4b22f4</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/c411fe8ae0888994361279cf71a1bf820c4b22f4" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Build nixos-20.09 d351e49b641f3bb12a4e447b7d1ba9e953db5e1a</title>
+    <updated>2020-09-07T10:26:10Z</updated>
+    <id>d351e49b641f3bb12a4e447b7d1ba9e953db5e1a</id>
+    <content type="html">TODO: Fazer uma lista de coisa melhorzinha</content>
+    <link href="https://github.com/NixOS/nixpkgs/commit/d351e49b641f3bb12a4e447b7d1ba9e953db5e1a" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Definitely a machine powered by that blue gopher language</name>
+      <email>node-933493@sky.net</email>
+    </author>
+  </entry>
+</feed>
