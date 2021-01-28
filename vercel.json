@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+        {"source": "/:channel/feed.:format", "destination": "/api/feeds"},
+        {"source": "/", "destination": "/index.html"}
+    ]
+}

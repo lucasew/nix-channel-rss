@@ -1,7 +1,8 @@
 {pkgs ? import <nixpkgs> {}}:
 pkgs.mkShell {
   buildInputs = with pkgs; [
-    go
+    nodePackages.vercel
     gopls
+    go
   ];
 }
