@@ -136,6 +136,7 @@ func Handler(w http.ResponseWriter, r *http.Request) {
     w.Header().Set("Cache-Control", "public, max-age=3600")
     channel := r.URL.Query().Get("channel")
     format := r.URL.Query().Get("format")
+    log.Printf("Requested channel %s at format %s", channel, format)
     rss, err := generateRSSFromChannel(channel)
     if err != nil {
         w.WriteHeader(400)
