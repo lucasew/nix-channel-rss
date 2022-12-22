@@ -16,14 +16,14 @@ import (
 
 var (
     channels = []string{
-        "nixos-20.03",
-        "nixos-20.03-small",
-        "nixos-20.09",
-        "nixos-20.09-small",
+        "nixos-22.05",
+        "nixos-22.05-small",
+        "nixos-22.11",
+        "nixos-22.11-small",
         "nixos-unstable",
         "nixos-unstable-small",
-        "nixpkgs-20.03-darwin",
-        "nixpkgs-20.09-darwin",
+        "nixpkgs-22.11-darwin",
+        "nixpkgs-22.11-darwin",
         "nixpkgs-unstable",
     }
 )
