@@ -1,0 +1,14 @@
+[tools]
+go = "1.24.3"
+
+[env]
+# Add scripts directory to PATH so `workspaced` is available
+_.path = ["scripts"]
+
+[tasks]
+install = { run = "go mod download", description = "Install dependencies" }
+lint = { run = "workspaced codebase lint", description = "Lint the codebase" }
+fmt = { run = "workspaced codebase format", description = "Format the codebase" }
+test = { run = "go test ./...", description = "Run tests" }
+codegen = { run = "echo 'No codegen'", description = "Update generated code" }
+ci = { depends = ["lint", "test"], description = "Run CI pipeline" }

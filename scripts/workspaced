@@ -1,0 +1,30 @@
+#!/bin/bash
+set -e
+
+COMMAND="$1"
+SUBCOMMAND="$2"
+
+if [ "$COMMAND" = "codebase" ]; then
+    if [ "$SUBCOMMAND" = "lint" ]; then
+        echo "Running lint checks..."
+        # Run go vet
+        go vet ./...
+        # Check formatting (fail if unformatted)
+        if [ -n "$(gofmt -l .)" ]; then
+            echo "Go code is not formatted:"
+            gofmt -d .
+            exit 1
+        fi
+    elif [ "$SUBCOMMAND" = "format" ]; then
+        echo "Formatting code..."
+        gofmt -w .
+    else
+        echo "Unknown subcommand: $SUBCOMMAND"
+        echo "Usage: workspaced codebase [lint|format]"
+        exit 1
+    fi
+else
+    echo "Unknown command: $COMMAND"
+    echo "Usage: workspaced codebase [lint|format]"
+    exit 1
+fi
