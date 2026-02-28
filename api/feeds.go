@@ -14,6 +14,8 @@ import (
 	"github.com/gorilla/feeds"
 )
 
+// channels lists all valid NixOS and Nixpkgs build streams.
+// Used as an allowlist to prevent arbitrary channel requests.
 var (
     channels = []string{
         "nixos-22.05",
@@ -28,6 +30,8 @@ var (
     }
 )
 
+// CheckIfChannelExist verifies if the requested channel exists in the allowlist.
+// Prevents generating feeds for invalid or unsupported nix channels.
 func CheckIfChannelExist(channel string) bool {
     for i := 0; i < len(channels); i++ {
         if channels[i] == channel {
@@ -37,17 +41,25 @@ func CheckIfChannelExist(channel string) bool {
     return false
 }
 
+// ByDate enables sorting feed items by creation timestamp descending.
+// Needed because history files append new commits at the bottom, but RSS feeds
+// typically display newest items first.
 type ByDate []*feeds.Item
 
+// Len is part of sort.Interface.
 func (a ByDate) Len() int {
     return len(a)
 }
 
+// HistoryLine maps to a single record in a nix channel history file.
+// Each line indicates when a specific git commit was deployed to the channel.
 type HistoryLine struct {
     Commit string
     UnixTimestamp int64
 }
 
+// httpCat is a helper to fetch remote plaintext files, similar to UNIX `cat`.
+// Used primarily to pull raw commit history lists from channels.nix.gsc.io.
 func httpCat(url string) (string, error) {
     res, err := http.Get(url)
     if err != nil {
@@ -60,10 +72,14 @@ func httpCat(url string) (string, error) {
     return string(data), nil
 }
 
+// trim cleans up whitespace and carriage returns from history file lines.
 func trim(s string) string {
     return strings.Trim(s, " \n\r")
 }
 
+// fetchChannelHistory downloads and parses the full commit history for a given channel.
+// The remote file format is space-separated: "commit_hash unix_timestamp".
+// Invalid lines are logged and skipped rather than failing the entire fetch.
 func fetchChannelHistory(channel string) ([]HistoryLine, error) {
     data, err := httpCat(fmt.Sprintf("https://channels.nix.gsc.io/%s/history", channel))
     if err != nil {
@@ -89,6 +105,9 @@ func fetchChannelHistory(channel string) ([]HistoryLine, error) {
     return ret, nil
 }
 
+// generateRSSFromChannel constructs the feed metadata and converts commit history
+// into individual feed items.
+// Items older than one year are filtered out to keep feed size manageable.
 func generateRSSFromChannel(channel string) (feed *feeds.Feed, err error) {
     now := time.Now()
     feed = &feeds.Feed{}
@@ -124,14 +143,20 @@ func generateRSSFromChannel(channel string) (feed *feeds.Feed, err error) {
     return feed, nil
 }
 
+// Swap is part of sort.Interface.
 func (a ByDate) Swap(i, j int) {
     a[i], a[j] = a[j], a[i]
 }
 
+// Less is part of sort.Interface. Sorts items newest-first (descending).
 func (a ByDate) Less(i, j int) bool {
     return a[i].Created.Unix() > a[j].Created.Unix()
 }
 
+// Handler is the Vercel serverless entrypoint for all feed requests.
+// It parses the requested channel and desired feed format (rss, atom, json).
+// Sets a 1-hour cache control policy for edge caching, avoiding heavy upstream load
+// on channels.nix.gsc.io.
 func Handler(w http.ResponseWriter, r *http.Request) {
     w.Header().Set("Cache-Control", "public, max-age=3600")
     channel := r.URL.Query().Get("channel")
